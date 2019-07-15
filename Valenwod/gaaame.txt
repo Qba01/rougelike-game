@@ -1,0 +1,35 @@
+1. Tekstowy rpg
+` w tekstowym jakies wybory,
+ ograniczony ekwipunek
+ wyrzucanie podnoszenie przedmiotow (jakis mechanizm zeby nie znikaly od razu)
+albo cos typu zangband albo jak ta karciana co ostatnio 
+ma byc turowa czy w czasie rzeczywistym?
+a) obrazenia fizyczne/magiczne
+b) zdobywanie zlota/exp
+c) itemy/skille
+d) przeciwnicy
+e) poziomy(mapy?)
+f)tworzenie postaci ( mag wojownik ³ucznik np )
+g)
+2. Dodac mape
+a) zeby byla minimum stala
+b) potem ewentualnie zeby wraz z poruszaniem sie przesuwala sie 
+c)
+3. Zeby dzialalo c:
+a) wymiana dmg 
+b) zapisywanie statow + ewentualnie jakies inne rzeczy + achivementy 
+c)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Serj Tankian - Lie Lie Lie 

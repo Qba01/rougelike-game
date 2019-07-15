@@ -1,0 +1,10 @@
+imie qwew
+dmg 8
+hp 7
+exp 0
+plecak 0
+qwew
+8
+7
+0
+0
